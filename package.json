@@ -15,5 +15,7 @@
  },
  "packageManager": "yarn@3.2.1",
  "dependencies": {},
- "devDependencies": {}
+ "devDependencies": {
+  "nextjs": "^0.0.3"
+ }
 }
